@@ -1,4 +1,6 @@
-roponuj nową funkcjonalność
+---
+name: Nowa funkcjonalność
+about: Zaproponuj nową funkcjonalność
 title: "[FEATURE] krótki opis"
 labels: enhancement
 assignees: ""
