@@ -6,6 +6,7 @@ Zaliczenie przedmiotu Zarządzanie projektem wdrożeniowym
  ![Static Badge](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Sposób uruchomienia
+Nie musisz mieć żadnego specjalnego oprogramowania - wystarczy przeglądarka.
 
 ## Skład zespołu
 - Magda M. - kierownik zespołu
